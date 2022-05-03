@@ -1,14 +1,15 @@
 # React JS Training
 
-- Bluuweb YouTube Channel[1]
--  
+- [Bluuweb YouTube Channel][1]
+  
 
 
 
 ## Initial Setup
 - Install Node
 - Run `npx create-react-app my-app`
-- Look fot `my-app` new directory
+- Move to the app directory: `cd my-app`
+- Run `npm start`
 
 
 
